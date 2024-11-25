@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em inglês é HI.'
 )
+
+criaCartao(
+    'Matemática',
+    'Qual a raiz quadrada de 9?',
+    'A raiz quadrada de 9 é 3.'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual é o triplo de 10?',
+    'O triplo de 10 é 30.'
+)
